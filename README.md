@@ -1,4 +1,4 @@
-# miwifi-tailscale
+# smaller tailscaled
 
 Follow the [document](https://tailscale.com/kb/1207/small-tailscale) build smaller tailscale binary for redmi ax6000 router (arm64)
 
